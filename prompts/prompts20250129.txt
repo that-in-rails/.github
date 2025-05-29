@@ -1,0 +1,1 @@
+Give me a md file which has 300 IQ best practices for a Rails project which can be given to the LLMs to write idiomatic code and architecture, with clear highlight of when to do what, and when not to do what and trade-offs
