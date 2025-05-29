@@ -1,1 +1,3 @@
 Give me a md file which has 300 IQ best practices for a Rails project which can be given to the LLMs to write idiomatic code and architecture, with clear highlight of when to do what, and when not to do what and trade-offs
+
+## /home/amuldotexe/Desktop/GitHub202410/pensieve2024/A01Play2025Q1/PublishSoftware/copy-paste-20250506.sh /home/amuldotexe/AndroidStudioProjects/Arithmancy /home/amuldotexe/a01_logs
